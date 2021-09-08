@@ -79,7 +79,7 @@ def array_to_table(arr):
         
 def table_to_array(table, n_rows=None, n_cols=None):
     """
-    Convert tablar array to 2D or 3D array
+    Convert tabular array to 2D or 3D array
 
     The function converts a table where columns represents the input bands
     and each row represents a cell to a single band or multiband raster array.
